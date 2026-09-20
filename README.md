@@ -15,6 +15,14 @@ Studying **AI and Machine Learning Engineering** at Teknikhögskolan Stockholm (
 
 ---
 
+### Currently building
+
+**Agent RAG** *(private, 5-person team)* — a routing agent that directs a question to the right RAG database among several. I own the retrieval layer and the evaluation: the strategy contract and its keyword/semantic implementations, the query log, and the pipeline that scores four ranking strategies against a ground-truth set.
+
+I wrote the evaluation protocol before any result existed, with a revision log recording whether each threshold changed before or after the number it governs had been read. When the measurement came in, the headroom gap cleared my pre-registered threshold — but the bootstrap interval included zero and the permutation null produced a larger gap on average, so I reported it as no effect. Scrum master for one sprint; 22 % of 603 commits.
+
+---
+
 ### What I've built
 
 | Project | What it is |
