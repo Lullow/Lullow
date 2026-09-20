@@ -1,4 +1,4 @@
-# Elias Cherrou
+# Elia Cherrou
 
 **AI & machine learning engineering student in Stockholm — looking for an LIA placement.**
 
